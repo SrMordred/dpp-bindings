@@ -1,0 +1,4 @@
+module raylib;
+
+// raygui.h includes raylib.h so i can bundle both together
+#include "raygui.h"

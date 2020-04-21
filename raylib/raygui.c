@@ -1,0 +1,4 @@
+#define RAYGUI_IMPLEMENTATION
+#define RAYGUI_SUPPORT_ICONS
+#define BUILD_LIBTYPE_SHARED
+#include "raygui.h"
